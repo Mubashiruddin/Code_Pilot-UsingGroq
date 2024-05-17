@@ -1,0 +1,11 @@
+- install codellama
+- install python 
+- run the command > ollama run codellama
+- run the command > pip install virtualenv
+- run the command > virtualenv venv
+- run the command > venv\Scripts\activate
+- run the commmand > pip install gradio
+- run the command > pip install langcahin 
+- run > ollama create codepilot -f modelfile
+- run > ollama run codeguru
+- run > python app.py
